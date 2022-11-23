@@ -1,0 +1,67 @@
+id,game_id,name,storyline,first_release_date,follow_count,hype_count,critic_rating_value,critic_rating_count,user_rating_value,user_rating_count
+28766,42257,Kirby no Omochabako: Baseball,NULL,1995-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+37880,176042,Kid Kirby,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+41618,95893,kirby original adventure classic,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+47498,208400,Kirby and the Forgotten Land,NULL,2022-04-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+68172,84259,Kirby Slide,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+75582,134458,Kirby no Omochabako: Kachiwari Megaton Punch wo Tameshi Ban,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+78966,145720,Game Boy Advance Video: Kirby: Right Back at Ya!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+90235,134454,Kirby no Omochabako: Cannonball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90343,134453,Kirby no Omochabako: Guru Guru Ball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90393,134457,Kirby no Omochabako: Ball Rally,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93283,134452,Kirby no Omochabako: Pinball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93294,134456,Kirby no Omochabako: Pachinko,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93420,42217,Kirby no Omochabako: Hoshi Kuzushi,NULL,1996-03-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+106450,203815,Kirby Heardle,NULL,2022-04-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+118767,223861,Yume no Kirby,NULL,2022-07-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+125754,62490,Kirby no Omochabako,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+127104,28126,Team Kirby Clash Deluxe,"This is the story of a faraway realm from long, long ago... A beautiful, peaceful land called the Dream Kingdom. Peace, though, can vanish in a flash... Can you defend the Dream Kingdom from a sudden onslaught of enemies? Set forth and do battle, Team Kirby!",2017-04-12 00:00:00.000,3,NULL,47.0000,1,NULL,NULL
+131489,134455,Kirby no Omochabako: Arrange Ball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133213,145015,Kirby The Dream Battle,NULL,2019-08-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144646,152418,Kirby: Invaders from the Dark,"Kirby's nap is cut short when a massive portal appears in the sky. Two shadowy figures, named Pandora and Molotov, destroy the Staff of Cosmos, the only thing standing in their way. It's up to Kirby to gather the six pieces to recreate teh Staff and defeat Pandora, Molotov and their mysterious leader Metuo...",2010-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147373,185882,Kirby Tilt 'n' Tumble 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+151669,134459,Kirby no Omochabako: Setsuna no Mikiri wo Tameshi Ban,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+156946,176051,Kirby's Air Ride,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+159269,174592,Kirby's Dream Land Advance,NULL,2016-06-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+163744,113211,Kirby's Super Star Stacker,NULL,1998-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+165848,185888,Kirby Adventure,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+166986,139059,Kirby Fighters 2,"Meta Knight and King Dedede have seemingly teamed up to challenge Kirby to a buddy gauntlet! Fight alongside a buddy to scale the tower, choosing helpful items between each round that will power you up for the rest of your ascent.",2020-09-23 00:00:00.000,1,NULL,65.0000,3,NULL,NULL
+172284,209094,Kirby's Dream Buffet,Kirby is about to eat some cake when the magic fork he is holding makes him tiny! He must compete with three other Kirbys to eat the most strawberries and win the Gourmet Grand Prix.,2022-08-17 00:00:00.000,NULL,1,66.6667,4,NULL,NULL
+188519,217565,Kirby’s Return to Dream Land Deluxe,NULL,2023-02-24 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+109077,66788,Kirby Battle Royale,NULL,2017-11-03 00:00:00.000,2,NULL,58.3333,4,60.0000,3
+172832,3727,Kirby's Avalanche,NULL,1995-02-01 00:00:00.000,3,NULL,NULL,NULL,66.5553,12
+163833,2184,Kirby's Epic Yarn,NULL,2010-10-14 00:00:00.000,13,NULL,84.6000,8,68.6995,55
+81586,3728,Kirby's Block Ball,NULL,1995-12-14 00:00:00.000,NULL,NULL,NULL,NULL,69.9988,8
+150118,3655,Kirby's Star Stacker,NULL,1997-03-18 00:00:00.000,1,NULL,NULL,NULL,70.0000,3
+167610,109460,Kirby's Extra Epic Yarn,NULL,2019-03-08 00:00:00.000,1,1,80.4286,7,70.0153,6
+183987,3715,Kirby's Pinball Land,NULL,1993-11-27 00:00:00.000,3,NULL,NULL,NULL,70.6374,15
+81173,37137,Kirby Star Allies,NULL,2018-03-16 00:00:00.000,23,5,74.0833,13,71.2695,55
+173629,3724,Kirby Mass Attack,NULL,2011-08-04 00:00:00.000,4,NULL,85.5000,5,71.4927,17
+81629,3722,Kirby: Canvas Curse,NULL,2005-03-24 00:00:00.000,6,NULL,85.0000,2,71.7223,35
+191186,3729,Kirby Tilt 'n' Tumble,NULL,2000-08-23 00:00:00.000,NULL,NULL,NULL,NULL,72.2513,7
+82028,45163,Kirby Fighters Deluxe,NULL,2014-07-23 00:00:00.000,2,NULL,NULL,NULL,73.0000,2
+180341,2713,Kirby 64: The Crystal Shards,"On the planet of Ripple Star, lives a group of kind and peaceful fairies. The planet itself is protected from danger by the power of the great Crystal, which watches over Ripple Star. This power, however, draws the attention of Dark Matter, who wishes to use the great Crystal for its own evil agenda. Its gigantic mass attacks and searches for the Crystal, blackening the sky and sending the fairies into panic. In response to the threat Dark Matter presents, the queen of Ripple Star orders a fairy named Ribbon to take the Crystal to a safe place. Ribbon tries to fly away with the Crystal in tow, but is stopped by three orbs sent by Dark Matter. The Crystal shatters into 74 shards, scattered throughout several planets, and Ribbon crashes onto Planet Popstar. Kirby finds one shard and gives it to Ribbon, whereupon the two set out to find the others. Once Kirby and his friends collect every Crystal Shard and defeat Miracle Matter, Dark Matter flees Ripple Star and explodes. The victory is cut short, however, as the Crystal detects a powerful presence of Dark Matter energy within the Fairy Queen and expels it from her, manifesting over the planet to create Dark Star. Kirby and his friends infiltrate Dark Star, and King Dedede launches them up to challenge 02. Kirby and Ribbon, armed with their Shard Gun, destroyed 02 and the Dark Star.",2000-06-26 00:00:00.000,21,NULL,NULL,NULL,73.5719,73
+159453,28127,Kirby's Blowout Blast,NULL,2017-07-04 00:00:00.000,1,NULL,58.6667,3,76.0000,3
+187430,122229,Super Kirby Clash,"Long, long ago, in a faraway realm, there was a beautiful, peaceful land called the Dream Kingdom. One surprising day, Hornhead went on a rampage across the Seaside. And so it came to pass that Team Kirby set off on an adventure to restore peace to the kingdom...",2019-09-04 00:00:00.000,2,NULL,NULL,NULL,76.0000,2
+148257,2777,Kirby Air Ride,NULL,2003-08-11 00:00:00.000,13,NULL,NULL,NULL,76.5887,54
+194119,7338,Kirby and the Rainbow Curse,NULL,2015-01-22 00:00:00.000,7,2,73.1250,9,78.0105,17
+184411,1063,Kirby's Dream Land,NULL,1992-04-27 00:00:00.000,19,NULL,NULL,NULL,78.6516,110
+81530,3723,Kirby: Squeak Squad,"Early afternoon in Dream Land... It's so peaceful that even the clouds are drowsy. And now it's Kirby's favorite time of the day: snack time! Today's yummy snack is a sweet, fluffy slice of strawberry shortcake! Time to dig in... WHOA! The cake Kirby was about to eat has suddenly vanished! That scrumptious, berry-topped slice of mouth-watering goodness... No doubt about it! This must be the work of that greedy King Dedede! Well, there's no time to waste! Gotta get that cake back! And that's how Kirby's latest fantastic adventure begins...",2006-11-02 00:00:00.000,6,NULL,70.0000,1,78.8804,41
+185729,3656,Kirby's Dream Course,NULL,1994-09-21 00:00:00.000,6,NULL,70.0000,1,79.3482,31
+125388,84617,3D Classics: Kirby's Adventure,NULL,2011-11-17 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,3
+120570,3718,Kirby's Dream Land 2,NULL,1995-03-21 00:00:00.000,9,NULL,NULL,NULL,80.0101,39
+178485,2647,Kirby Super Star Ultra,NULL,2008-09-22 00:00:00.000,17,NULL,77.0000,6,80.2260,58
+195094,3717,Kirby's Adventure,"One day, the peaceful life of Dream Land was shattered by a mysterious crisis! The inhabitants didn't dream! On the edge of Dream Land, dreams and hope once gushed forth from the Dream Spring, fueled by the Star Rod. Investigating the Dream Spring, Kirby found naughty King Dedede swimming in its magical waters! Dedede had broken the Star Rod and given the pieces to his friends, who are now hiding in Dream Land! To bring back the lost dreams, Kirby sought the Star Rod!",1993-03-23 00:00:00.000,30,NULL,60.0000,1,80.9253,128
+9247,3720,Kirby's Dream Land 3,NULL,1997-11-27 00:00:00.000,9,NULL,NULL,NULL,81.5945,42
+90413,3726,Kirby: Nightmare in Dream Land,NULL,2002-10-25 00:00:00.000,11,NULL,70.0000,1,83.3491,65
+181320,3721,Kirby & the Amazing Mirror,"There is a Mirror World that exists in the skies of Dream Land where any wish reflected in the mirror will come true. However, one day it copies the mind of a mysterious figure and creates a reflected world of evil. Meta Knight notices this and flies up to save the Mirror World.
+
+Meanwhile, Kirby is taking a walk when Dark Meta Knight appears. Before Kirby can react, Dark Meta Knight slices Kirby in four and Kirby becomes four different colored Kirbys. They chase after Dark Meta Knight on a Warp Star simultaneously and enter the Mirror World.
+
+It is revealed that the two Meta Knights fought each other until the real Meta Knight was defeated. He was then knocked into the mirror, which was in turn cut into eight fragments by Dark Meta Knight and scattered across the Mirror World, prompting the Kirbys to save Meta Knight and the Mirror World. After collecting all eight mirror fragments, Kirby enters the Mirror World and battles Dark Meta Knight. After defeating him, a vortex appears and sucks Kirby in, who is given Meta Knight's sword. Kirby then proceeds to fight Dark Mind, the true mastermind behind the Mirror World's corruption, multiple times. Upon defeat, the Mirror World is saved, and Shadow Kirby (the Mirror World counterpart of Kirby who is believed to be an enemy, but is now an ally) waves his goodbyes to the four Kirbys as they all exit the Mirror World one by one. Meta Knight also drops his Master sword before leaving the Mirror World, marking it as a symbol for the Mirror World's protection.",2004-04-15 00:00:00.000,16,NULL,NULL,NULL,84.8163,65
+183555,5440,Kirby Triple Deluxe,NULL,2014-01-11 00:00:00.000,15,NULL,78.5455,11,84.9876,42
+119095,84168,Kirby's Dream Collection Special Edition,NULL,2012-07-19 00:00:00.000,3,NULL,NULL,NULL,85.3774,5
+106120,172427,Kirby and the Forgotten Land,"Kirby awakens, washed ashore in a strange and mysterious world, one where nature and civilization have become one. As he adventures through this forgotten land he finds and saves Waddle Dees, who rebuild their recently destroyed home town. While searching for more Waddle Dees Kirby finds the reason for the opening rift and fights to try to save the two planets colliding!",2022-03-25 00:00:00.000,10,1,87.8750,11,86.5928,24
+181894,3719,Kirby Super Star,NULL,1996-03-21 00:00:00.000,22,NULL,80.0000,1,86.9292,83
+195632,18221,Kirby: Planet Robobot,NULL,2016-04-28 00:00:00.000,11,NULL,82.2667,16,87.6828,30
+79613,3725,Kirby's Return to Dream Land,NULL,2011-10-24 00:00:00.000,13,NULL,86.5000,4,89.8124,38
